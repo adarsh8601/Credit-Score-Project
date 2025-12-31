@@ -53,7 +53,7 @@ SMOTE (optional for imbalance handling)
 📊 Model Performance
 
 Final model accuracy achieved:
-≈ 66%+ accuracy
+≈ 56%+ accuracy
 
 Not perfect (credit data is tough!), but strong enough to extract meaningful insights and build upon.
 
